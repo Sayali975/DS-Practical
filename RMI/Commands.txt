@@ -1,0 +1,11 @@
+Open terminal at file location
+
+Terminal 1:
+javac *.java
+rmiregistry
+
+Terminal 2:
+java Server
+
+Terminal 3:
+java Client
